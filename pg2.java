@@ -28,4 +28,8 @@ class UserMainCode{
 			return num1+num2+num3;
 		}
 	} 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c8786b58dd769c25f7b7ad91c7daf8f809915616
